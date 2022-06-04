@@ -1,3 +1,3 @@
 # Numpy
-All numpy basics exercise and solution done from Keith Galli.:)
+All numpy exercise and solution done from Keith Galli youtube lecture.:)
 
